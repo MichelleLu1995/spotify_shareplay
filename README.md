@@ -3,6 +3,7 @@ Spotify Shareplay is a web application that allows you to add songs from other p
 
 ## Requirements 
 Python 3.4
+
 Django 1.10
 
 ##Setup
